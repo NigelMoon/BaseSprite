@@ -4,6 +4,7 @@ For now i don't have a lot of base to the creation of an specific item, but i wi
 
 # Tip
 If you are creating an Item in TMod, you can use almost any size, the only thing you need to be aware is that a item needs to be the double of the original size, for example, an image with the size 17x19 needs to be 34x38 to work without a problem.
+If you need a specific sprite, you can directly download from the wiki, for example the royal gel.
 
 # Aclaration
 The sprites i take wasnt mine, i took it from a Forus or Internet in general, in case of the image doesnt work, please inform.
