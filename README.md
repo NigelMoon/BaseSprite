@@ -7,5 +7,6 @@ If you are creating an Item in TMod, you can use almost any size, the only thing
 
 # Aclaration
 The sprites i take wasnt mine, i took it from a Forus or Internet in general, in case of the image doesnt work, please inform.
+If you need a more coded resume, there's the example mod, that explains almost every item you want to create.
 
 https://github.com/tModLoader/tModLoader/tree/7c420204eac6ed119241d4cb77699940c6acbbd0/ExampleMod
