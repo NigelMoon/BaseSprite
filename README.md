@@ -10,3 +10,6 @@ The sprites i take wasnt mine, i took it from a Forus or Internet in general, in
 If you need a more coded resume, there's the example mod, that explains almost every item you want to create.
 
 https://github.com/tModLoader/tModLoader/tree/7c420204eac6ed119241d4cb77699940c6acbbd0/ExampleMod
+
+And There's a guy who made templates with Grid to guide
+https://forums.terraria.org/index.php?threads/the-ultimate-guide-to-content-creation-and-use-for-the-terraria-workshop.100652/
